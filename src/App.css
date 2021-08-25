@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+
+body {
+  background-image: url("https://wallpaperaccess.com/full/473028.jpg");
+  
+}
+.card img{
+  height:300px;
+
+}
+
+.filter-wrapper{
+  width:200px;
+  margin: 0 auto;
+  margin-bottom: 20px;  
+}
+
+.filter-height{
+  padding: 15px;
+  text-align: center;
+  width:100%;
+  background-color:rgb(240, 234, 222) ;
+  
+}
+
+
+.card {
+  margin-top:30px;
+  margin-right: 0px;
+}
+
+.rocket-info{
+  margin:20px 0;
+  text-align: center
+}
+h1{
+  color: aliceblue;
+  text-align:center;
+}
+
